@@ -47,7 +47,6 @@ function testFibonacci(n) {
 
 function init() {
     const FIBONACCI_TERMS = 8;
-
     testFibonacci(FIBONACCI_TERMS);
 }
 
